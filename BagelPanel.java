@@ -11,6 +11,7 @@ public class BagelPanel extends JPanel
 	
 	private ButtonGroup bg;
 	
+	// create BagelPanel
 	public BagelPanel()
 	{
 		setLayout(new GridLayout(2,1));
